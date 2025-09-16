@@ -2,7 +2,7 @@
 cs3047
 
 
-System and Networks COMPSCI 4043 Monday 26 April 2021
+System and Networks COMPSCI 4043 
 
          (a)             Express the following   in   32-bit two’s   complement   code,   giving   your   answers   in   hexadecimal.   Show   your   working.
 
